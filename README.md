@@ -1,2 +1,5 @@
-# Piano
-Learning Piano using Trial &amp; error plus previous knowledge
+> "To play a wrong note is insignificant; to play without passion is inexcusable."
+
+> Bethoven
+
+<img width="538" height="371" alt="images" src="https://github.com/user-attachments/assets/5e3ee049-062d-4097-956e-2c28aaaed193" />
